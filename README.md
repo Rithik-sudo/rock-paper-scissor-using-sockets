@@ -21,14 +21,6 @@ A multiplayer Rock-Paper-Scissors game built in Python using Pygame and Sockets.
    ```
 3. Play against yourself (or another person on the same machine) across the windows!
 
-## Screenshots / UI Output
-
-Here are some screenshots of the game in action:
-
-![Screenshot 1](image.png)
-![Screenshot 2](image%20copy.png)
-![Screenshot 3](image%20copy%202.png)
-
 ## Conclusion and Future Work
 
 In conclusion, our project has successfully implemented a multiplayer Rock-Paper-Scissors game using socket programming, opening the door to real-time gaming experiences. It underscores the potential of networked gaming and the collaborative nature of modern programming. This project offers a starting point for further advancements in online gaming, demonstrating the exciting possibilities of interactive multiplayer experiences in a connected world.
